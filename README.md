@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Rajput</h1>
 <h3 align="center">A Passionate & Enthusiastic Frontend Developer.</h3>
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1664882299~exp=1664882899~hmac=cce5d8fe2d5f3ca2948779c921e06bcfd71943584237e7941b32a0db68c78846" alt="Girl in a jacket" width="300" height="300">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallyakshay&label=Profile%20views&color=0e75b6&style=flat" alt="actuallyakshay" /> </p>
 
