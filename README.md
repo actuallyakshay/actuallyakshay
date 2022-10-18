@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Rajput</h1>
+<div display="flex", flex-direction="column">
 <h3 align="center">A Passionate & Enthusiastic Mern Stack Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product.</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" height="200px">
+</p>
+  </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallyakshay&label=Profile%20views&color=0e75b6&style=flat" alt="actuallyakshay" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
