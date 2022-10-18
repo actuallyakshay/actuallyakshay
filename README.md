@@ -42,7 +42,3 @@ If you want to contact me, you can reach me through below handles.
 
 
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
