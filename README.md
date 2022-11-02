@@ -10,11 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm**
+- 👨‍💻 I’m currently working on **Facebook clone**
 
-- 💬 Ask me about **HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Redux, Node JS, Data Structure and Algorithm**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Redux, Node JS, Express JS, MongoDB, Chakra-ui, Data Structure and Algorithm**
 
 - 📫 How to reach me **akshay.rajput1197@gmail.com**
+
+- 📑Resume https://drive.google.com/file/d/1EuW5RhkyvN0Rpxh11jdncPZXOr5N6fqu/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
