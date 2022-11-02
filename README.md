@@ -29,7 +29,7 @@
 
 
 
-<img align="center" src="https://streak-stats.demolab.com/?user=actuallyakshay&theme=nord&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)" alt="actuallyakshay" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=actuallyakshay&count_private=true&theme=nord&hide_border=true&border_radius=20" alt="actuallyakshay" />
+<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=actuallyakshay&theme=nord&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)" alt="actuallyakshay" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=actuallyakshay&count_private=true&theme=nord&hide_border=true&border_radius=20" alt="actuallyakshay" /></p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyakshay&layout=compact&theme=nord&hide_border=true&border_radius=20' />
 
 
