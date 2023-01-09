@@ -12,9 +12,9 @@
 
 - 👨‍💻 I’m currently working on **Facebook clone**
 
-- 🌱 I’m currently learning **Redux, Node JS, Data Structure and Algorithm**
+- 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Redux, Node JS, Express JS, MongoDB, Chakra-ui, Data Structure and Algorithm**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React JS, Redux, Node JS, Express JS, MongoDB, Chakra-ui, tailwind-css, Data Structure and Algorithm**
 
 - 📫 How to reach me **akshay.rajput1197@gmail.com** | | ***+91-9568950421***
 
